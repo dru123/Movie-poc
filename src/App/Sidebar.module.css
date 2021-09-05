@@ -1,0 +1,8 @@
+.Sidebar_Container{
+
+position: fixed;
+background-color: rgba(0, 0, 0, 0.877);
+height: 100%;
+width: 20%;
+/* top: 0; */
+left: 0;}

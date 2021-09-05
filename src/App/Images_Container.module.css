@@ -1,0 +1,14 @@
+.Images_Container_image{
+    height: 35vh;
+    width: 20vw !important;
+  display: inline;
+}
+.Images_Container_mainImageContainer{
+    padding: 10px;
+    margin-left: 30px;
+}
+.Images_Container_movieTitle{
+    color: white;
+    font-size: 1rem;
+    text-align: left;
+}
